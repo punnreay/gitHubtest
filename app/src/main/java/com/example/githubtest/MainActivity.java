@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         int punnreayy;
         String name = "punnreay";
         String neww = " test";
-        String new2 = " test2";
+        String new2 = " test23";
     }
 }
